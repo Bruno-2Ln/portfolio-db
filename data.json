@@ -38,10 +38,22 @@
   ],
   "projects": [
     {
+      "title": "E-learning",
+      "description": "Conception et développement du back-office d’une plateforme d’e-learning dédiée aux professionnels de santé. Le projet repose sur la création de formulaires complexes (CVA) permettant de configurer et de mettre en ligne des questionnaires spécifiques à différents corps médicaux. Le client dispose ainsi d’une solution générique, modulable et multi-tenant, qu’il peut revendre à ses propres clients pour qu’ils gèrent de manière autonome leurs projets de questionnaires (création, édition, publication et suivi). Le back-office offre une interface structurée et intuitive pour orchestrer les logiques métiers, les parcours de questions et les règles de validation avancées.",
+      "technologies": ["Angular", "TypeScript", "REST API"],
+      "image": "assets/images/elearning.png"
+    },
+    {
       "title": "WP-Content",
       "description": "Développement d'une plateforme moderne en Angular 18 facilitant le déploiement et la gestion de plugins WordPress. Basée sur Angular 18 et intégrant Stripe pour la gestion des paiements, cette solution optimise le workflow des développeurs WordPress. Le projet inclut une gestion avancée des hooks WordPress et propose une approche moderne pour le développement de plugins réutilisables.",
       "technologies": ["Angular", "Stripe"],
       "image": "assets/images/wp-content.png"
+    },
+    {
+      "title": "Gensurf",
+      "description": "Réalisation en binôme d’un site WordPress pour Gensurf. J’ai conçu et développé l’ensemble des composants et de leurs styles à partir de maquettes détaillées afin de permettre une intégration rapide par l’autre développeur. La base de styles repose sur un SCSS moderne, structuré autour de mixins et variables réutilisables, garantissant une UI cohérente, maintenable et facilement extensible.",
+      "technologies": ["WordPress", "SCSS"],
+      "image": "assets/images/gensurf.png"
     },
     {
       "title": "Edimark",
